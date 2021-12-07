@@ -1,0 +1,35 @@
+[33mcommit 7448686b05ac0d486e10e6ee77d2cb660d2c0ede[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ari Saman <ari.saman996@gmail.com>
+Date:   Tue Dec 7 14:53:52 2021 +0300
+
+    paint.html
+
+[33mcommit f6cc8b08ca83d8295272af2cebc4fc6caebfb8d2[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Ari Saman <ari.saman996@gmail.com>
+Date:   Tue Dec 7 12:01:41 2021 +0300
+
+    cls
+
+[33mcommit c62d162012c735a82c708a99dbcc495f71a2b42f[m
+Author: Ari Saman <ari.saman996@gmail.com>
+Date:   Tue Dec 7 07:11:35 2021 +0300
+
+    hi
+
+[33mcommit f721cc40311bfcd6ac685a9c1d3ee04ad4f8ed14[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ari Saman <ari.saman996@gmail.com>
+Date:   Mon Dec 6 12:08:57 2021 +0300
+
+    created file after clone
+
+[33mcommit e5f3b643a64919c9272bd07b15f59bf7a2db4097[m
+Author: Ari Saman <ari.saman996@gmail.com>
+Date:   Fri Dec 3 18:31:07 2021 +0300
+
+    added second-commit.txt
+
+[33mcommit a1dededc57b78c0c6eb1261f79eda86cf1e18075[m
+Author: Ari Saman <ari.saman996@gmail.com>
+Date:   Fri Dec 3 17:49:53 2021 +0300
+
+    file text.txt added
